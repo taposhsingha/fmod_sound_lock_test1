@@ -1,0 +1,22 @@
+{
+  "buildFiles": [
+    "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "example-Debug-arm64-v8a": {
+      "artifactName": "example",
+      "buildCommand": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" example",
+      "abi": "arm64-v8a",
+      "output": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libexample.so",
+      "runtimeFiles": [
+        "D:\\fmodstudioapi20214android\\api\\core\\lib\\arm64-v8a\\libfmodL.so"
+      ]
+    }
+  }
+}

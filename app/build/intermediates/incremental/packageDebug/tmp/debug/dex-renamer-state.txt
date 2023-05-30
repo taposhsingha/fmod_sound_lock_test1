@@ -1,0 +1,4 @@
+#Tue May 30 16:19:31 BDT 2023
+base.0=D\:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

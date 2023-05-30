@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dexample_EXPORTS -isystem D:/fmodstudioapi20214android/api/core/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fno-exceptions -fno-rtti -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\example.dir\\common.cpp.o -c D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common.cpp",
+  "file": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common.cpp"
+},
+
+{
+  "directory": "D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dexample_EXPORTS -isystem D:/fmodstudioapi20214android/api/core/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fno-exceptions -fno-rtti -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\example.dir\\common_platform.cpp.o -c D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common_platform.cpp",
+  "file": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common_platform.cpp"
+},
+
+{
+  "directory": "D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86_64",
+  "command": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dexample_EXPORTS -isystem D:/fmodstudioapi20214android/api/core/inc  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -fno-exceptions -fno-rtti -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\example.dir\\play_sound.cpp.o -c D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\play_sound.cpp",
+  "file": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\play_sound.cpp"
+}
+]

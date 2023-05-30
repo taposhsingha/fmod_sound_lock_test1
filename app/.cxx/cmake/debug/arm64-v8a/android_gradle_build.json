@@ -1,0 +1,55 @@
+{
+  "stringTable": {
+    "0": "D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/virtualdevices/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dexample_EXPORTS -isystem D:/fmodstudioapi20214android/api/core/inc -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -fno-exceptions -fno-rtti -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "example-Debug-arm64-v8a": {
+      "buildCommand": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\arm64-v8a\" example",
+      "buildType": "debug",
+      "toolchain": "3124466911",
+      "abi": "arm64-v8a",
+      "artifactName": "example",
+      "files": [
+        {
+          "src": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\common_platform.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\play_sound.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libexample.so",
+      "runtimeFiles": [
+        "D:\\fmodstudioapi20214android\\api\\core\\lib\\arm64-v8a\\libfmodL.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "3124466911": {
+      "cppCompilerExecutable": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

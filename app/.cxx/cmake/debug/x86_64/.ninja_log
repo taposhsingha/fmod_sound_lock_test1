@@ -1,0 +1,9 @@
+# ninja log v5
+2	1094	707128305	CMakeFiles/example.dir/play_sound.cpp.o	7c06df872497a71f
+41	1119	707128305	CMakeFiles/example.dir/common.cpp.o	54cd36ab9b9fabf7
+18	2352	707128306	CMakeFiles/example.dir/common_platform.cpp.o	21e1a10a4b452b95
+2353	2710	707128307	D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	9bcf79018e2e6eea
+33	5993	707145046	CMakeFiles/example.dir/play_sound.cpp.o	7c06df872497a71f
+4	1968	707145083	CMakeFiles/example.dir/play_sound.cpp.o	7c06df872497a71f
+3	1264	707145168	CMakeFiles/example.dir/play_sound.cpp.o	7c06df872497a71f
+1264	1517	707145168	D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/build/intermediates/cmake/debug/obj/x86_64/libexample.so	1028c2ed64a4d5aa

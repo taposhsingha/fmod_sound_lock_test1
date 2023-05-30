@@ -1,0 +1,3 @@
+D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86/CMakeFiles/example.dir
+D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+D:/fmodstudioapi20214android/api/core/examples/androidstudio/cmake/play_sound/app/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir

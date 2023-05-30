@@ -1,0 +1,220 @@
+{
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\x86_64",
+    "cmakeServerLogFile": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\x86_64\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cxx\\debug\\x86_64",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\x86_64",
+      "cmakeToolchain": "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "variables": [
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-std\u003dc++11 -fno-exceptions -fno-rtti"
+        },
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\prefab\\x86_64\\prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "D:\\virtualdevices\\ndk\\21.0.6113669"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-16"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86_64"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "D:\\virtualdevices\\ndk\\21.0.6113669"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "16"
+        },
+        {
+          "name": "FMOD_API_ROOT",
+          "value": "D:\\fmodstudioapi20214android\\api"
+        },
+        {
+          "name": "FMOD_LIB_SUFFIX",
+          "value": "L"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\x86_64",
+  "info": {
+    "abi": "X86_64",
+    "bitness": 64,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\x86_64",
+  "variant": {
+    "buildSystemArgumentList": [
+      "-DFMOD_API_ROOT\u003dD:\\fmodstudioapi20214android\\api",
+      "-DFMOD_LIB_SUFFIX\u003dL"
+    ],
+    "buildTargetSet": [],
+    "cFlagsList": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      "-std\u003dc++11",
+      "-fno-exceptions",
+      "-fno-rtti"
+    ],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "D:\\virtualdevices\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+      },
+      "cmakeToolchainFile": "D:\\virtualdevices\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx",
+      "gradleModulePathName": ":app",
+      "intermediatesFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates",
+      "makeFile": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build.gradle",
+      "moduleRootFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "D:\\virtualdevices\\ndk\\21.0.6113669",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "21.0.6113669",
+      "project": {
+        "compilerSettingsCacheFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\.cxx",
+        "cxxFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\.cxx",
+        "ideBuildTargetAbi": "x86_64,arm64-v8a",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound",
+        "sdkFolder": "D:\\virtualdevices",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "D:\\virtualdevices\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\build\\intermediates\\cmake\\debug\\obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "X86_64"
+    ],
+    "prefabDirectory": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "D:\\fmodstudioapi20214android\\api\\core\\examples\\androidstudio\\cmake\\play_sound\\app\\.cxx\\cmake\\debug\\prefab\\x86_64"
+}

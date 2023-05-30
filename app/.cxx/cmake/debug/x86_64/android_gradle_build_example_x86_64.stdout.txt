@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\fmodstudioapi20214android\api\core\examples\androidstudio\cmake\play_sound\app\.cxx\cmake\debug\x86_64'
+ninja: no work to do.
